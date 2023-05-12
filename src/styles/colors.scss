@@ -1,0 +1,10 @@
+$black: #060606;
+$white: #FAFAFA;
+$grey: #2B2B30;
+
+$black-slightly-lighten: lighten($black, 3);
+$black-lighten: lighten($black, 5);
+$white-slightly-darken: darken($white, 15);
+$white-darken: darken($white, 30);
+$grey-lighten: lighten($grey, 10);
+$grey-darken: darken($grey, 10);
